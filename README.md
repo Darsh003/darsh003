@@ -1,35 +1,27 @@
-# 📰 THE DAILY DEVELOPER
-**Vol. 1** | *India Edition* | *Free for Recruiters*
+<div align="center">
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Darsh%20Patel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20PHP%20%26%20Laravel&descAlignY=55&descSize=20" width="100%"/>
 
-## 📢 HEADLINE: DARSH PATEL JOINS TRACTION SHASTRA FULL-TIME
-[cite_start]**INDIA** — After a successful internship, **Darsh Patel** [cite: 1] [cite_start]has officially taken the role of **Web Developer** at **Traction Shastra**[cite: 21]. [cite_start]Sources say he is deploying "high-level PHP and Laravel code" [cite: 22] and managing databases with precision.
+  <h3></h3>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,bootstrap,python,java,git,vscode,html,css&perline=11" />
 
----
+  <br><br>
 
-### 🚀 FEATURE STORY: "Friday" Takes Over?
-*By Tech Correspondent*
+  <a href="https://github.com/darshpatel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpatel&layout=compact&theme=tokyonight"/>
+  </a>
 
-[cite_start]Darsh Patel has unveiled **"Friday"**, a desktop AI assistant built with **Python**[cite: 37, 39].
-> [cite_start]"It can open apps and even write emails using the OpenAI API," the developer stated[cite: 38].
+  <br><br>
 
-[cite_start]Critics are also raving about his other work, **Blood Connect**, a PHP-based platform designed to simplify blood donation and save lives[cite: 24, 25].
+  <img src="https://github-profile-trophy.vercel.app/?username=darshpatel&theme=onedark&no-frame=true&margin-w=15" />
 
----
+  <br><br>
 
-### 📊 MARKET WATCH (Skills Ticker)
-[cite_start]`PHP ▲` `LARAVEL ▲` `REACT ▲` `PYTHON ▲` `MYSQL ▲` `JAVA ▬` [cite: 14, 15]
-
----
-
-### 🎓 EDUCATION CORNER
-**B.Sc. IT Student Scores Big:**
-[cite_start]Darsh Patel graduated from **Viva College** with a staggering **9.15 CGPA**[cite: 5]. [cite_start]He was also noted for presenting a research paper on **"Smart Mirrors"** at the Confab 25 International Conference[cite: 44].
-
----
-
-### 🧩 CLASSIFIEDS (Contact)
-**LOOKING FOR WORK?**
-[cite_start]Hire a developer who knows **Data Structures, OOPs, and Git**[cite: 16, 17].
-[cite_start]**Contact:** `todarshpatel002@gmail.com` [cite: 2]
+  <a href="mailto:todarshpatel002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
