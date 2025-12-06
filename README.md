@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Darsh+Patel;Full+Stack+Developer+(PHP+%2F+Laravel);Building+Scalable+Web+Solutions;Let's+Code+the+Future+Together!&height=60" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Darsh+Patel;Building+Next-Gen+AI+Solutions;Integrating+Generative+Models+with+Web;Let's+Code+the+Future+Together!&height=60" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Web_Developer-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Education-B.Sc._IT_(9.15_CGPA)-007ec6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_System_Design-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Generative_AI_%26_System_Design-ff69b4?style=for-the-badge" />
 </div>
 
 <br>
@@ -34,15 +34,15 @@
     <td align="center">
        <h3>🏢 Traction Shastra</h3>
        <b>Web Developer</b> (Sept 2024 - Present)<br>
-       <i>Expanded into Full Stack Development with Laravel & React.</i>
+       <i>Leading development of scalable web architectures.</i>
        <br><br>
        <b>Web Dev Intern</b> (May 2024 - Aug 2024)<br>
-       <i>Mastered PHP & MySQL core concepts.</i>
+       <i>Mastered backend logic & database optimization.</i>
     </td>
     <td align="center">
        <h3>🎓 Bharat Intern</h3>
        <b>Web Dev Intern</b> (Oct 2023 - Nov 2023)<br>
-       <i>Built strong foundations in Frontend (HTML/CSS/JS).</i>
+       <i>Built strong foundations in Frontend Engineering.</i>
     </td>
   </tr>
 </table>
@@ -56,19 +56,19 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /><br>PHP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" /><br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
@@ -114,21 +114,21 @@
       AI-powered wedding orchestration with Muhurat-based scheduling & generative decor visualization.
     </td>
     <td width="50%">
-      <img src="https://img.icons8.com/color/48/000000/blood-bag.png" width="30" valign="middle"/> <b>Blood Connect</b><br>
-      <code>PHP</code> <code>MySQL</code><br>
-      Full-featured blood donation platform with Admin CRUD.
+      <img src="https://img.icons8.com/color/48/000000/robot-2.png" width="30" valign="middle"/> <b>Friday (AI)</b><br>
+      <code>Python</code> <code>OpenAI</code><br>
+      [cite_start][cite: 37, 38] Desktop voice assistant that automates tasks and writes emails.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="https://img.icons8.com/color/48/000000/news.png" width="30" valign="middle"/> <b>Heading Hub</b><br>
       <code>React</code> <code>Bootstrap</code><br>
-      Real-time global news aggregator using live APIs.
+      [cite_start][cite: 28, 34] Real-time global news aggregator using live APIs.
     </td>
     <td width="50%">
-      <img src="https://img.icons8.com/color/48/000000/robot-2.png" width="30" valign="middle"/> <b>Friday (AI)</b><br>
-      <code>Python</code> <code>OpenAI</code><br>
-      Desktop voice assistant that automates tasks and writes emails.
+      <img src="https://img.icons8.com/color/48/000000/blood-bag.png" width="30" valign="middle"/> <b>Blood Connect</b><br>
+      <code>PHP</code> <code>MySQL</code><br>
+      [cite_start][cite: 24, 25] Full-featured blood donation platform with Admin CRUD.
     </td>
   </tr>
 </table>
