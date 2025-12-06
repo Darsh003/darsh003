@@ -141,7 +141,7 @@
   <br>
   <i>"How Smart Mirrors Are Changing the Way We Shop"</i>
   <br><br>
-  <img src="https://img.shields.io/badge/Project_Finalist-Aavishkar_(Zonal)-silver?style=for-the-badge&logo=acm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-Aavishkar_(Zonal)-silver?style=for-the-badge&logo=acm&logoColor=white" />
   <br>
   <i>"GSM Based Health Monitoring System"</i>
 </div>
