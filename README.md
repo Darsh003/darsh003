@@ -1,69 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Darsh%20Patel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20PHP%20%26%20Laravel%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Darsh+Patel;I+Build+Web+Apps+with+Laravel;I+Automate+Tasks+with+Python;Let's+Build+Something+Cool" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
+<p align="center">
+  <b>Web Developer @ Traction Shastra</b> • <b>B.Sc. IT (9.15 CGPA)</b>
+</p>
 
-<table align="center" border="0" cellpadding="10" cellspacing="10">
-  <tr>
-    <td valign="top" width="30%">
-      <h3 align="center">👨‍💻 About Me</h3>
-      <p>I am a <b>Web Developer</b> at <b>Traction Shastra</b> with a passion for building robust backends.</p>
-      <p>🎓 <b>B.Sc. IT</b> (9.15 CGPA)</p>
-      <p>📍 <b>Focus:</b> Laravel & PHP Ecosystem</p>
-      <div align="center">
-        <a href="mailto:todarshpatel002@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      </div>
-    </td>
-    
-    <td valign="top" width="40%">
-      <h3 align="center">🛠️ Tech Arsenal</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </div>
-    </td>
+<p align="center">
+  <a href="mailto:todarshpatel002@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-222222?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-    <td valign="top" width="30%">
-      <h3 align="center">⚡ Current Status</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=darshpatel&show_icons=true&locale=en&theme=buefy&hide_border=true&hide_title=true&count_private=true" alt="Darsh's Stats" />
-    </td>
-  </tr>
-</table>
+---
 
-<h3 align="center">🚀 Featured Deployments</h3>
+### 🏗️ What I'm Building
+
+| **Project** | **Stack** | **Description** |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> **Friday** | `Python` `OpenAI` | [cite_start]A desktop voice assistant that writes emails and opens apps automatically. [cite: 37, 38] |
+| <img src="https://img.icons8.com/color/48/000000/blood-bag.png" width="30"/> **Blood Connect** | `PHP` `MySQL` | [cite_start]A CRUD-based web platform to connect blood donors with patients. [cite: 24, 25] |
+| <img src="https://img.icons8.com/color/48/000000/news.png" width="30"/> **Heading Hub** | `React` `Bootstrap` | [cite_start]A dynamic news app fetching live global headlines via API. [cite: 28, 34] |
+
+---
+
+### 💻 The Tech Stack
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
-      <b>🩸 BLOOD CONNECT</b><br>
-      <sub>PHP • MySQL • Admin Panel</sub><br>
-      <br>
-      <i>"A complete platform for blood donation management."</i>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /><br>PHP
     </td>
-    <td width="33%" align="center">
-      <b>🤖 FRIDAY (AI)</b><br>
-      <sub>Python • OpenAI API</sub><br>
-      <br>
-      <i>"Desktop assistant for voice commands & automation."</i>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /><br>Laravel
     </td>
-    <td width="33%" align="center">
-      <b>📰 HEADING HUB</b><br>
-      <sub>React • NewsAPI</sub><br>
-      <br>
-      <i>"Real-time global news aggregator."</i>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git
     </td>
   </tr>
 </table>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpatel&layout=compact&theme=graywhite&hide_border=true" />
 </div>
