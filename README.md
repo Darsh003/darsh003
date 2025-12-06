@@ -1,27 +1,60 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Darsh%20Patel&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20PHP%20%26%20Laravel&descAlignY=55&descSize=20" width="100%"/>
-
-  <h3></h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,bootstrap,python,java,git,vscode,html,css&perline=11" />
-
-  <br><br>
-
-  <a href="https://github.com/darshpatel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpatel&layout=compact&theme=tokyonight"/>
-  </a>
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=darshpatel&theme=onedark&no-frame=true&margin-w=15" />
-
-  <br><br>
-
-  <a href="mailto:todarshpatel002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Darsh+Patel;I+Build+Web+Apps+with+Laravel;I+Automate+Tasks+with+Python;Let's+Build+Something+Cool" alt="Typing SVG" />
   </a>
 </div>
+
+<p align="center">
+  <b>Web Developer @ Traction Shastra</b> • <b>B.Sc. IT (9.15 CGPA)</b>
+</p>
+
+<p align="center">
+  <a href="mailto:todarshpatel002@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-222222?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏗️ What I'm Building
+
+| **Project** | **Stack** | **Description** |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> **Friday** | `Python` `OpenAI` | A desktop voice assistant that writes emails and opens apps automatically. |
+| <img src="https://img.icons8.com/color/48/000000/blood-bag.png" width="30"/> **Blood Connect** | `PHP` `MySQL` | A CRUD-based web platform to connect blood donors with patients. |
+| <img src="https://img.icons8.com/color/48/000000/news.png" width="30"/> **Heading Hub** | `React` `Bootstrap` | A dynamic news app fetching live global headlines via API. |
+
+---
+
+### 💻 The Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /><br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /><br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="
