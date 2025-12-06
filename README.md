@@ -1,55 +1,42 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Darsh+Patel;I+Build+Web+Apps+with+Laravel;I+Automate+Tasks+with+Python;Let's+Build+Something+Cool" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2" width="100%"/>
+  <h1 style="color: #58A6FF;">DARSH PATEL</h1>
+  <h3>FULL STACK DEVELOPER | TRACTION SHASTRA</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%"/>
 </div>
 
-<p align="center">
-  <b>Web Developer @ Traction Shastra</b> • <b>B.Sc. IT (9.15 CGPA)</b>
-</p>
-
-<p align="center">
-  <a href="mailto:todarshpatel002@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-222222?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🏗️ What I'm Building
-
-| **Project** | **Stack** | **Description** |
-| :--- | :--- | :--- |
-| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> **Friday** | `Python` `OpenAI` | A desktop voice assistant that writes emails and opens apps automatically. |
-| <img src="https://img.icons8.com/color/48/000000/blood-bag.png" width="30"/> **Blood Connect** | `PHP` `MySQL` | A CRUD-based web platform to connect blood donors with patients. |
-| <img src="https://img.icons8.com/color/48/000000/news.png" width="30"/> **Heading Hub** | `React` `Bootstrap` | A dynamic news app fetching live global headlines via API. |
-
----
-
-### 💻 The Tech Stack
+<br>
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /><br>PHP
+    <td width="50%" valign="top">
+      <h3 style="color: #58A6FF;">> SYSTEM INFO</h3>
+      <ul>
+        [cite_start]<li><b>User:</b> Darsh Patel [cite: 1]</li>
+        [cite_start]<li><b>Role:</b> Web Developer [cite: 21]</li>
+        <li><b>Education:</b> B.Sc. [cite_start]IT (9.15 CGPA) [cite: 4, 5]</li>
+        [cite_start]<li><b>Research:</b> "Smart Mirrors" Paper [cite: 44]</li>
+      </ul>
+      <br>
+      <h3 style="color: #58A6FF;">> ACTIVE MISSIONS</h3>
+      <table>
+        <tr>
+            <td>🟢</td>
+            <td><b>Project Friday (AI)</b><br>Python Automation</td>
+        </tr>
+        <tr>
+            <td>🟢</td>
+            <td><b>Blood Connect</b><br>PHP/MySQL System</td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /><br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git
+    <td width="50%" valign="top">
+      <h3 style="color: #58A6FF;">> SKILL MATRIX</h3>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width="100%"/><br>
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" width="100%"/><br>
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="100%"/><br>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100%"/><br>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" width="100%"/>
     </td>
   </tr>
 </table>
@@ -57,4 +44,12 @@
 <br>
 
 <div align="center">
-  <img src="
+  <img src="https://github-profile-trophy.vercel.app/?username=darshpatel&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="mailto:todarshpatel002@gmail.com">
+    <img src="https://img.shields.io/badge/INITIATE_CONTACT_PROTOCOL-000000?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117" />
+  </a>
+</div>
